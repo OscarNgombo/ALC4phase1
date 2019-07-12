@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ALC 4 phase 1</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="oscar_tinga_ngombo">Oscar Tinga Ngombo</string>
+    <string name="track_android">Track:</string>
+    <string name="track">Android</string>
+    <string name="oscartinga_gmail_com">oscartinga@gmail.com</string>
+    <string name="email">Email:</string>
+    <string name="number">+254713606957</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="phone_no">Phone No:</string>
+    <string name="kenya">Kenya</string>
+    <string name="country">Country:</string>
+</resources>
